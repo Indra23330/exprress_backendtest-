@@ -1,0 +1,19 @@
+{
+  "name": "02_express",
+  "version": "1.0.0",
+  "description": "this is  basice backend ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "indranil dhara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
